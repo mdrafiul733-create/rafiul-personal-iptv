@@ -77,6 +77,9 @@ http://172.31.235.10:8080/hls/32-nagorik/index.m3u8
 #EXTINF:-1,T SPORTS HD
 http://172.31.235.10:8080/hls/34-tsportssd/index.m3u8
 
+#EXTINF:-1,STAR SPORTS 2 HD
+http://172.31.235.10:8080/hls/55-ssselect/index.m3u8
+
 #EXTINF:-1,NEXUS TV HD
 http://172.31.235.10:8080/hls/35-nexus/index.m3u8
 

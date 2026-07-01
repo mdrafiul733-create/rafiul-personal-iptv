@@ -10,8 +10,9 @@ http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
 #EXTINF:-1,FIFA SERVER 3
 http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,FIFA SERVER 4
-
+#EXTINF:-1 tvg-id="SonyAath.bd" tvg-logo="https://toffeelive.com/images/channels/Sony_Aath.png" group-title="Entertainment",Sony Aath (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36
+https://bldcmprod-cdn.toffeelive.com/cdn/live/slang/sonyaath_576/sonyaath_576.m3u8?bitrate=1000000&channel=sonyaath_576&gp_id=
 #EXTINF:-1,FIFA SERVER 5
 
 #EXTINF:-1,FIFA SERVER 6

@@ -65,7 +65,7 @@ http://172.31.235.10:8080/hls/19-maasranga/index.m3u8
 http://172.31.235.10:8080/hls/21-channel24/index.m3u8
 
 #EXTINF:-1,EKATTOR HD ( Rafiul IPTV )
-http://172.31.235.10:8080/hls/23-ekattor/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1,JAMUNA TV SD ( Rafiul IPTV )
 http://172.31.235.10:8080/hls/26-jamuna/index.m3u8
@@ -77,7 +77,7 @@ http://172.31.235.10:8080/hls/27-deepto/index.m3u8
 http://172.31.235.10:8080/hls/28-dbc/index.m3u8
 
 #EXTINF:-1,NEWS 24 HD ( Rafiul IPTV )
-http://172.31.235.10:8080/hls/29-news24/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 #EXTINF:-1,DURONTO HD ( Rafiul IPTV )
 http://172.31.235.10:8080/hls/31-duronto/index.m3u8
@@ -98,7 +98,7 @@ http://172.31.235.10:8080/hls/35-nexus/index.m3u8
 http://172.31.235.10:8080/hls/36-global/index.m3u8
 
 #EXTINF:-1,EKHON SD ( Rafiul IPTV )
-https://sm-monirul.top/toffee/play/ekhon_tv.m3u8
+https://stream.ottplus.live/live/ekhon_tv_abr/live/ekhon_tv_hd_720/chunks.m3u8
 
 #EXTINF:-1,CHANNEL S HD ( Rafiul IPTV )
 http://172.31.235.10:8080/hls/38-channel-s/index.m3u8
@@ -124,11 +124,11 @@ https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1,Jalsha MOVIE ( Rafiul IPTV )
 http://180.94.28.28:8097//JALSHA-MOVIES/index.fmp4.m3u8
 
-#EXTINF:-1,Sangeet Bangla ( Rafiul IPTV )
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-
-#EXTINF:-1,/DISCOVERY BANGLA ( Rafiul IPTV )
+#EXTINF:-1,DISCOVERY ( Rafiul IPTV )
 http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8
+
+#EXTINF:-1,Motor Vision ( Rafiul IPTV )
+https://mvg-mv-xumo.otteravision.com/mvg/mv/mv.m3u8
 
 #EXTINF:-1,Nikky ( Rafiul IPTV )
 https://nomawnoijl.gpcdn.net/akash/nikky/playlist.m3u8
@@ -145,6 +145,15 @@ https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1,Gopal Bhar ( Rafiul IPTV )
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1,Mr Bean Animated ( Rafiul IPTV )
+https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
+
+#EXTINF:-1,Bantul The Great ( Rafiul IPTV )
+https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1,Oggy and the Cockroaches ( Rafiul IPTV )
+https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1,Tom & Jarry ( Rafiul IPTV )
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 
@@ -153,3 +162,9 @@ https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1,Doraemon ( Rafiul IPTV )
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 Peace Tv ( Rafiul IPTV )
+https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNdTzDE2912wNcPLejQ
+
+#EXTINF:-1 Madina live ( Rafiul IPTV )
+https://cdn-globecast.akamaized.net/live/eds/saudi_sunnah/hls_roku/index.m3u8

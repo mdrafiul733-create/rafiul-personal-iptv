@@ -8,21 +8,24 @@ http://172.31.235.10:8080/hls/34-tsportssd/index.m3u8
 http://172.17.50.112:84/ant1001/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,FIFA SERVER 3( Rafiul IPTV )
-http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
+http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 
 #EXTINF:-1,FIFA SERVER 4( Rafiul IPTV )
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+http://172.17.50.112:84/ant1008/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,FIFA SERVER 5( Rafiul IPTV )
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 #EXTINF:-1,FIFA SERVER 6( Rafiul IPTV )
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
 #EXTINF:-1,FIFA SERVER 7( Rafiul IPTV )
-http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 
 #EXTINF:-1,FIFA SERVER 8( Rafiul IPTV )
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,FIFA SERVER 9( Rafiul IPTV )
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
 #EXTINF:-1,BTV NEWS HD( Rafiul IPTV )
